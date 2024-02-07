@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon"
+        href="img/one-punch-man-fist-one-punch-man-fist-11562873756g3gqxan881-removebg-preview.png">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+    <title>Onepunch</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+    <link rel="stylesheet" href="heroes.css">
+</head>
+
+<body class="achtergrond">
+    <nav class="navbar navbar-expand-lg fixed-top onepunch-navbar" data-aos="fade-down" data-aos-duration="1000">
+        <div class="container-fluid">
+            <div class="navbar-logo">
+                <div class="dropdown">
+                    <button class="btn btn-light dropdown-toggle" type="button" data-bs-toggle="dropdown"
+                        data-bs-target="#logoDropdown" aria-haspopup="true" aria-expanded="false">
+                        <img src="img/one-punch-man-fist-one-punch-man-fist-11562873756g3gqxan881-removebg-preview.png"
+                            alt="Logo" width="30" style="border-radius: 20%; width: 55px;">
+                        <span class="caret"></span>
+                    </button>
+                    <div class="dropdown-menu" id="logoDropdown" aria-labelledby="logoDropdown">
+                        <a class="dropdown-item" href="#">Anime</a>
+                        <a class="dropdown-item" href="#">Manga</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="offcanvas offcanvas-end" tabindex="-1" id="offcanvasNavbar"
+                aria-labelledby="offcanvasNavbarLabel">
+                <div class="offcanvas-header">
+                    <img src="img/One_Punch_Man_logo.svg-removebg-preview.png" alt="Another Logo" width="30"
+                        style="width: 200px;">
+                    <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+                </div>
+                <div class="offcanvas-body">
+                    <ul class="navbar-nav justify-content-center flex-grow-1 pe-3">
+                        <li class="nav-item">
+                            <a class="nav-link mx-lg-2  " aria-current="page" href="index.html">Home</a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link mx-lg-2 active" href="heroes.html">Heroes</a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link mx-lg-2" href="leaderboard.html">Leaderboard</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link mx-lg-2" href="voting.html">Vote</a>
+                        </li>
+                    </ul>
+                    <form class="d-flex" role="search" id="search">
+                        <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+                        <button class="btn btn-outline-danger" type="submit">Search</button>
+                    </form>
+                </div>
+            </div>
+            <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavbar"
+                aria-controls="offcanvasNavbar" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+        </div>
+    </nav>
+    <ol id="container" data-aos="zoom-out" data-aos-duration="1000"></ol>
+
+    <div class="container my-5">
+        <hr>
+        <footer class="text-center text-lg-start logos bg-light">
+            <div class="container d-flex justify-content-center py-5">
+                <a href="https://www.instagram.com/"><button type="button" class="btn btn-lg btn-floating mx-2">
+                        <img src="img/instagram.png" alt="logo1"></a>
+                </button>
+                <a href="https://www.facebook.com/?locale=nl_NL"><button type="button"
+                        class="btn btn-lg btn-floating mx-2">
+                        <img src="img/facebook.png" alt="logo2"></a>
+                </button>
+                <a href="https://www.youtube.com/watch?v=YUH1mfV3IEU"><button type="button"
+                        class="btn btn-lg btn-floating mx-2">
+                        <img src="img/youtube.png" alt="logo3"></a>
+                </button>
+                <a href="https://twitter.com/?lang=nl"><button type="button" class="btn btn-lg btn-floating mx-2">
+                        <img src="img/X.png" alt="logo4"></a>
+                </button>
+            </div>
+
+            <div class="text-center text-white p-3" style="background-color: rgba(0, 0, 0, 0.2); width: 950px;">
+                © 2024 Copyright:
+                <a class="text-white" href="https://mdbootstrap.com/">MDBootstrap.com</a>
+            </div>
+        </footer>
+
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
+        crossorigin="anonymous"></script>
+    <script src="heroes.js"></script>
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+    <script>
+        AOS.init();
+      </script>
+</body>
+
+</html>

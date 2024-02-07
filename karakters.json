@@ -1,0 +1,250 @@
+{
+  "characters": [
+    {
+      "name": "Saitama",
+      "rank": "B-Class",
+      "saviour": true,
+      "elo_rating": 2100,
+      "image": "https://i.pinimg.com/564x/7a/50/97/7a50976274ccfcd8b4daa6be1ccb2f77.jpg"
+    },
+    {
+      "name": "Genos",
+      "rank": "S-Class",
+      "saviour": true,
+      "elo_rating": 2200,
+      "image": "https://i.pinimg.com/564x/3b/b7/98/3bb798f03fc2d3ad30d8ce08af2a58cd.jpg"
+    },
+    {
+      "name": "Mumen Rider",
+      "rank": "C-Class",
+      "saviour": true,
+      "elo_rating": 1900,
+      "image": "https://i.pinimg.com/736x/40/0f/7d/400f7d5738a531f4c6f4e1e3c52c0c1b.jpg"
+    },
+    {
+      "name": "Tornado (Tatsumaki)",
+      "rank": "S-Class",
+      "saviour": true,
+      "elo_rating": 2300,
+      "image": "https://static.wikia.nocookie.net/onepunchman/images/b/b6/Tatsumaki_tells_Saitama_to_leave.png/revision/latest?cb=20210928124625"
+    },
+    {
+      "name": "Bang",
+      "rank": "S-Class",
+      "saviour": true,
+      "elo_rating": 2250,
+      "image": "https://static.wikia.nocookie.net/onepunchman/images/8/86/Bang_Anime_Profile.png/revision/latest?cb=20190928202957"
+    },
+    {
+      "name": "Speed-o'-Sound Sonic",
+      "rank": "A-Class",
+      "saviour": false,
+      "elo_rating": 2000,
+      "image": "https://static.wikia.nocookie.net/onepunchman/images/0/0a/Sonic_profile.png/revision/latest?cb=20210930031700"
+    },
+    {
+      "name": "King",
+      "rank": "S-Class",
+      "saviour": true,
+      "elo_rating": 2350,
+      "image": "https://static.wikia.nocookie.net/onepunchman/images/8/8a/King_Anime_Profile.png/revision/latest?cb=20191112124956"
+    },
+    {
+      "name": "Atomic Samurai",
+      "rank": "S-Class",
+      "saviour": true,
+      "elo_rating": 2325,
+      "image": "https://static.wikia.nocookie.net/onepunchman/images/8/81/Atomic_Samurai_Avi.png/revision/latest?cb=20191129185742"
+    },
+    {
+      "name": "Child Emperor",
+      "rank": "S-Class",
+      "saviour": true,
+      "elo_rating": 2280,
+      "image": "https://static.wikia.nocookie.net/onepunchman/images/0/06/Child_Emperor%27s_Backpack.png/revision/latest?cb=20191025162400"
+    },
+    {
+      "name": "Tanktop Master",
+      "rank": "A-Class",
+      "saviour": true,
+      "elo_rating": 2050,
+      "image": "https://static.wikia.nocookie.net/onepunchman/images/d/dd/TTMProfile.png/revision/latest?cb=20191129055838"
+    },
+    {
+      "name": "Metal Bat",
+      "rank": "S-Class",
+      "saviour": true,
+      "elo_rating": 2300,
+      "image": "https://static1.cbrimages.com/wordpress/wp-content/uploads/2020/08/ONE-PUNCH-MAN-METAL-BAT-SURPRISED-COVER.jpg"
+    },
+    {
+      "name": "Puri-Puri Prisoner",
+      "rank": "S-Class",
+      "saviour": true,
+      "elo_rating": 2250,
+      "image": "https://static.wikia.nocookie.net/onepunchman/images/3/38/Puri-Puri-Prisoner_Profile.png/revision/latest?cb=20191130200938"
+    },
+    {
+      "name": "Fubuki",
+      "rank": "B-Class",
+      "saviour": true,
+      "elo_rating": 2100,
+      "image": "https://static.wikia.nocookie.net/onepunchman/images/6/6b/Fubuki_Anime_Profile.png/revision/latest?cb=20220614110042"
+    },
+    {
+      "name": "Zombieman",
+      "rank": "S-Class",
+      "saviour": true,
+      "elo_rating": 2250,
+      "image": "https://static.wikia.nocookie.net/onepunchman/images/0/00/Zombieman_Anime.png/revision/latest?cb=20151207153838"
+    },
+    {
+      "name": "Metal Knight",
+      "rank": "S-Class",
+      "saviour": true,
+      "elo_rating": 2400,
+      "image": "https://static.wikia.nocookie.net/onepunchman/images/c/cd/Metal_Knight_Robot_Manga_Coloured.png/revision/latest?cb=20191019205430"
+    },
+    {
+      "name": "Watchdog Man",
+      "rank": "S-Class",
+      "saviour": true,
+      "elo_rating": 2300,
+      "image": "https://static.wikia.nocookie.net/p__/images/3/3d/Watchdog_Man.webp/revision/latest?cb=20230327195532&path-prefix=protagonist"
+    },
+    {
+      "name": "Drive Knight",
+      "rank": "S-Class",
+      "saviour": true,
+      "elo_rating": 2350,
+      "image": "https://static.wikia.nocookie.net/onepunchman/images/7/73/Drive_Knight_Upper_Body_Anime.png/revision/latest?cb=20210928124516"
+    },
+    {
+      "name": "Pig God",
+      "rank": "S-Class",
+      "saviour": true,
+      "elo_rating": 2200,
+      "image": "https://static.wikia.nocookie.net/onepunchman/images/5/59/Pig_God_Anime_Profile.png/revision/latest?cb=20151207153854"
+    },
+    {
+      "name": "Superalloy Darkshine",
+      "rank": "S-Class",
+      "saviour": true,
+      "elo_rating": 2320,
+      "image": "https://static.wikia.nocookie.net/onepunchman/images/9/9d/Darkshine_Anime_Profile.png/revision/latest?cb=20191112212432"
+    },
+    {
+      "name": "Tanktop Black Hole",
+      "rank": "B-Class",
+      "saviour": true,
+      "elo_rating": 2050,
+      "image": "https://static.wikia.nocookie.net/onepunchman/images/5/5c/Tanktop_Black_Hole_Anime.png/revision/latest?cb=20151116140615"
+    },
+    {
+      "name": "Spring Mustachio",
+      "rank": "A-Class",
+      "saviour": true,
+      "elo_rating": 2100,
+      "image": "https://static.wikia.nocookie.net/onepunchman/images/8/85/Mustache_avatar.png/revision/latest?cb=20151108235320"
+    },
+    {
+      "name": "Golden Ball",
+      "rank": "A-Class",
+      "saviour": true,
+      "elo_rating": 2080,
+      "image": "https://static.wikia.nocookie.net/onepunchman/images/b/bf/Golden_Ball_Anime_Profile.png/revision/latest?cb=20200320031012"
+    },
+    {
+      "name": "Lightning Max",
+      "rank": "A-Class",
+      "saviour": true,
+      "elo_rating": 2070,
+      "image": "https://d3la0uqcqx40x5.cloudfront.net/wp-content/uploads/2020/04/One-Punch-Man-A-Hero-Nobody-Knows-Lightning-Max-Siliconera.jpg"
+    },
+    {
+      "name": "Stinger",
+      "rank": "A-Class",
+      "saviour": true,
+      "elo_rating": 2060,
+      "image": "https://static.wikia.nocookie.net/onepunchman/images/3/3c/StingerAnime2.png/revision/latest?cb=20191115042441"
+    },
+    {
+      "name": "Shadow Ring",
+      "rank": "A-Class",
+      "saviour": true,
+      "elo_rating": 2040,
+      "image": "https://static.wikia.nocookie.net/onepunchman/images/f/f6/Shadow_Ring_Color.png/revision/latest?cb=20210417064457"
+    },
+    {
+      "name": "Magic Trick Man",
+      "rank": "A-Class",
+      "saviour": true,
+      "elo_rating": 2020,
+      "image":"https://static.wikia.nocookie.net/onepunchman/images/6/68/Magichats2.jpg/revision/latest?cb=20190411191216"
+    },
+    {
+      "name": "Lightning Genji",
+      "rank": "A-Class",
+      "saviour": true,
+      "elo_rating": 2010,
+      "image":"https://static.wikia.nocookie.net/onepunchman/images/2/2a/Genji_S2.png/revision/latest?cb=20190513102554"
+
+    },
+    {
+      "name": "Wild Horn",
+      "rank": "B-Class",
+      "saviour": true,
+      "elo_rating": 1950,
+      "image":"https://static.wikia.nocookie.net/onepunchman/images/9/97/Wildhorn.png/revision/latest?cb=20190620182125"
+    },
+    {
+      "name": "Glasses",
+      "rank": "C-Class",
+      "saviour": true,
+      "elo_rating": 1800,
+      "image": "https://static.wikia.nocookie.net/onepunchman/images/8/80/Glasses_S2.png/revision/latest?cb=20211019234115"
+    },
+    {
+      "name": "Jet Nice Guy",
+      "rank": "C-Class",
+      "saviour": true,
+      "elo_rating": 1850,
+      "image": "https://static.wikia.nocookie.net/onepunchman/images/c/ca/Jet_Nice_Guy_Anime_Profile.png/revision/latest/scale-to-width/360?cb=20151124170144"
+    },
+    {
+      "name": "Heavy Kong",
+      "rank": "C-Class",
+      "saviour": true,
+      "elo_rating": 1700,
+      "image":"https://static.wikia.nocookie.net/onepunchman/images/1/1e/Heavy_Kong_S2.png/revision/latest/scale-to-width-down/1200?cb=20190513102452"
+    },
+    {
+      "name": "Eyelashes",
+      "rank": "C-Class",
+      "saviour": true,
+      "elo_rating": 1650,
+      "image":"https://i.pinimg.com/originals/b8/74/4a/b8744ae7caccd3a77ad07ee433183a10.jpg"
+    },
+    {
+      "name": "D-Pad",
+      "rank": "C-Class",
+      "saviour": true,
+      "elo_rating": 1550,
+      "image":"https://static.wikia.nocookie.net/onepunchman/images/c/c6/DPadAnime.png/revision/latest/scale-to-width/360?cb=20151124211850"
+    },
+    {
+      "name": "Funeral Suspenders",
+      "rank": "C-Class",
+      "saviour": true,
+      "elo_rating": 1500,
+      "image":"https://static.wikia.nocookie.net/onepunchman/images/0/04/Funeral_SuspendersAnime.png/revision/latest/scale-to-width/360?cb=20170503173552"
+    },
+    {
+      "name": "Sweet Mask",
+      "rank": "A-Class",
+      "saviour": true,
+      "elo_rating": 2100,
+      "image":"Sweet/MaskProfile.webp"
+    }
+  ]
+}
